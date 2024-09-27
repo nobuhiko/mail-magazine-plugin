@@ -13,6 +13,8 @@
 
 namespace Plugin\MailMagazine42;
 
+namespace Plugin\MailMagazine42;
+
 use Eccube\Plugin\AbstractPluginManager;
 use Symfony\Component\DependencyInjection\ContainerInterface;
 use Symfony\Component\Filesystem\Filesystem;
